@@ -5,3 +5,13 @@
 </div>
 
 ### Junior Front-end Developer
+
+
+
+
+
+<div align=center>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kwansk0424@gmail.com)](mailto:kwansk0424@gmail.com)
+
+</div>
