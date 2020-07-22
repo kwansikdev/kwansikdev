@@ -5,7 +5,8 @@
 </div>
 
 ### Junior Front-end Developer
-- HTML5, CSS3, JavaScript, ReactJS
+- Skills
+  - HTML5, CSS3, JavaScript, ReactJS
 
 <br/>
 <br/>
