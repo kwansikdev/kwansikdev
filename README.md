@@ -6,7 +6,7 @@
 
 ### Junior Front-end Developer
 - Skills
-  - HTML5, CSS3, JavaScript, ReactJS
+  - HTML5, CSS3, JavaScript, ReactJS, TypeScript
 
 <br/>
 <br/>
