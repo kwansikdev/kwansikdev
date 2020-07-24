@@ -20,3 +20,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kwansk0424@gmail.com)](mailto:kwansk0424@gmail.com)
 
 </div>
+
+![kwansikdev's github stats](https://github-readme-stats.vercel.app/api?username=kwansikdev&) <br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwansikdev)
