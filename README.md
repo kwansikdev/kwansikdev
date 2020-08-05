@@ -5,7 +5,6 @@
 </div>
 
 ### Junior Front-end Developer
-- 
 
 **Languages**
 
