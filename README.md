@@ -17,7 +17,7 @@
 
 **Interesting**
 
-<code><img height="30" src="https://user-images.githubusercontent.com/37237125/89312935-d425ef00-d6b2-11ea-84ab-4bbe67167c84.png"></code>
+<!--<code><img height="30" src="https://user-images.githubusercontent.com/37237125/89312935-d425ef00-d6b2-11ea-84ab-4bbe67167c84.png"></code>-->
 <code><img height="30" src="https://user-images.githubusercontent.com/37237125/89312941-d5efb280-d6b2-11ea-8af9-69cbccc64da3.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/37237125/89312950-d9833980-d6b2-11ea-8b58-295d95f6a45c.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/37237125/89312955-db4cfd00-d6b2-11ea-840e-61a4eba3546a.png"></code>
