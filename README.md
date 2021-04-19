@@ -30,6 +30,7 @@
     <img height=25" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>&nbsp
     <img height=25" src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=Mocha&logoColor=white"/></a>&nbsp
     <img height=25" src="https://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/></a>&nbsp
+    <img height=25" src="https://img.shields.io/badge/Electrone-47848F?style=flat-square&logo=Electron&logoColor=white"/></a>&nbsp
     <img height=25" src="https://img.shields.io/badge/etc-72EF36?style=flat-square&logo=&logoColor="/></a>&nbsp
   </p>
 </div>
