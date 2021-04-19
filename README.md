@@ -3,8 +3,7 @@
 
 <h2 align="center">Junior Front-end Developer</h2>
 <p align="center">🇰🇷<p>
-  
-<br>
+
 
 <h3 align="center">🛠 Tech Skils</h3>
 
@@ -21,8 +20,6 @@
     <img height=25" src="https://img.shields.io/badge/Redux-Saga-999999?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
 </p>
 </div>
-  
-<br>
 
 <div>
   <h4 align="center">Interesting</h4>
@@ -37,8 +34,6 @@
   </p>
 </div>
 
-<br>
-  
 <div>
   <h3 align="center">💁🏻 About Me</h3>
   
@@ -46,7 +41,6 @@
     <a href="https://www.notion.so/kwansikdev/349ba09bb166408394f9fd125fb967e3"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Gmail&logoColor=white&link=https://www.notion.so/kwansikdev/349ba09bb166408394f9fd125fb967e3"/></a>
     <a href="mailto:kwansk0424@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>  
   </p>
-
 </div>
 
 
