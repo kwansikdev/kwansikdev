@@ -17,8 +17,8 @@
     <img height=25" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
     <img height=25" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
     <img height=25" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp
-    <img height=25" src="https://img.shields.io/badge/Redux-Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/></a>&nbsp
-    <img height=25" src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
+    <img height=25" src="https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/></a>&nbsp
+    <img height=25" src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
   
 </p>
 </div>
