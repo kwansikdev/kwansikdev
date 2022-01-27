@@ -16,8 +16,11 @@
     <img height=25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
     <img height=25" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
     <img height=25" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp
+    <br />
     <img height=25" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp
+    <img height=25" src="https://img.shields.io/badge/Redux--toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp
     <img height=25" src="https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>&nbsp
+    <br />
     <img height=25" src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>&nbsp
   
 </p>
