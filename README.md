@@ -17,9 +17,12 @@
     <img height=25" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
     <img height=25" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp
     <br />
+    <img height=25" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp
+    <br />
     <img height=25" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp
     <img height=25" src="https://img.shields.io/badge/Redux--toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp
     <img height=25" src="https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>&nbsp
+    <img height=25" src="https://img.shields.io/badge/Recoil-FF9E0F?style=flat-square&&logoColor=white"/>&nbsp    
     <br />
     <img height=25" src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>&nbsp
   
@@ -37,6 +40,13 @@
     <img height=25" src="https://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>&nbsp
 <!--     <img height=25" src="https://img.shields.io/badge/Electrone-47848F?style=flat-square&logo=Electron&logoColor=white"/>&nbsp -->
 <!--     <img height=25" src="https://img.shields.io/badge/etc-72EF36?style=flat-square&logo=&logoColor="/>&nbsp -->
+  </p>
+</div>
+
+<div>
+  <h4 align="center">Tools</h4>
+  <p align="center">
+    <img height=25" src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white" />&nbsp
   </p>
 </div>
 
