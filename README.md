@@ -33,10 +33,7 @@
 <h4>Interesting</h4>
                                                                                                                                          
 <div>
-  <img height=25 src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp
-  <img height=25 src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white"/>&nbsp
   <img height=25 src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>&nbsp
-  <img height=25 src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=Mocha&logoColor=white"/>&nbsp
   <img height=25 src="https://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>&nbsp
   <img height=25 src="https://img.shields.io/badge/Electrone-47848F?style=flat-square&logo=Electron&logoColor=white"/>&nbsp
 </div>
