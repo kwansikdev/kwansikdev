@@ -3,10 +3,12 @@
 
 <!-- <h2 align="center">Junior Front-end Developer</h2> -->
 <!-- <p align="center">🇰🇷<p> -->
-<h2>Junior Front-end Developer </h2>
-<p>Kim Kwan Sik <span>🇰🇷<span></p>
+<h2 align="center">Kwansik Kim / Austin</h2>
+<p align="center">🇰🇷</p>
 
-
+<div align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwansikdev&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E7E7E7&title=Profile-views&edge_flat=false"/></a>
+</div>
 
 <h3>🛠 Tech Skils</h3>
 
@@ -58,8 +60,3 @@
     <a href="mailto:kwansikdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kwansikdev@gmail.com"/></a>  
   </p>
 </div>
-
-<br>
-<p>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwansikdev&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
