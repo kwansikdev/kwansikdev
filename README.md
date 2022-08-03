@@ -1,8 +1,9 @@
 
 <div align="center">
-  <h2>Kwansik Kim / Austin</h2>
-  <p>🇰🇷</p>
+  <h2><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1647770458/noticon/zlohwcuvnvfq8tkay2yy.gif"  height="40" /> Kwansik Kim / Austin</h2>
   
+  <p>🇰🇷</p>
+  <p>Hi, I'm junior front-end developer 
   <br />
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwansikdev&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E7E7E7&title=Profile-views&edge_flat=false)](https://hits.seeyoufarm.com)
