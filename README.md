@@ -25,7 +25,7 @@
 ### 📌 Tools
 <img src="https://img.shields.io/badge/Git-F05033?logo=Git&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/GitHub-000000?logo=GitHub&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=GitLab&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/slack-4A154B?logo=slack&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Figma-a259ff?logo=Figma&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/notion-000000?logo=notion&logoColor=white" height="20" />
 
----
+<br />
 
 ### 📌 Studying
 <img src="https://img.shields.io/badge/Prisma-2D3748?&logo=Prisma&logoColor=white" height="20" />
