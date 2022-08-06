@@ -41,7 +41,7 @@
 
 <br />
 
-### 👩🏻‍💻 About me
+## 👩🏻‍💻 About me
 <a href="https://www.notion.so/kwansikdev/349ba09bb166408394f9fd125fb967e3">
   <img src="https://img.shields.io/badge/notion-000000?style=flatsquare&logo=Gmail&logoColor=white&link=https://www.notion.so/kwansikdev/349ba09bb166408394f9fd125fb967e3"/>
 </a>
