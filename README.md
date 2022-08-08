@@ -1,9 +1,8 @@
 
 <div align="center">
   <h2><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1647770458/noticon/zlohwcuvnvfq8tkay2yy.gif"  height="40" /> Kwansik Kim / Austin</h2>
-  
-  <p>🇰🇷</p>
-  <p>Hi, I'm junior front-end developer
+ 
+  <p>Hi, I'm junior front-end developer 🇰🇷</p>
   <br />
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwansikdev&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E7E7E7&title=Profile-views&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -38,13 +37,3 @@
 
 #### 📝 Database
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white" height="20" />
-
-<br />
-
-## 👩🏻‍💻 About me
-<a href="https://www.notion.so/kwansikdev/349ba09bb166408394f9fd125fb967e3">
-  <img src="https://img.shields.io/badge/notion-000000?style=flatsquare&logo=Gmail&logoColor=white&link=https://www.notion.so/kwansikdev/349ba09bb166408394f9fd125fb967e3"/>
-</a>
-<a href="mailto:kwansikdev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kwansikdev@gmail.com"/>
-</a>
